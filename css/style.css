@@ -1,0 +1,60 @@
+
+ body {
+    padding-top: 70px;
+    font-size:16px;
+    font-style: Comic;
+  }
+
+html{
+
+padding: 0px;
+margin: 0px;
+overflow-x: hidden;
+}
+
+hr {
+	max-width: none;
+	border-color: #eee
+}
+
+.image {
+    float: right;
+    margin: 0 20px 20px 0;
+    hspace:100px
+ height: auto;
+ width: 400px;
+ align:middle;
+}
+
+h2 {
+    margin: 0 40px 40px 0;
+    font-family:Tahoma;
+}
+
+ul li {
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 5px 0px;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size:18px;
+}
+
+p {
+    padding: 5px 0px;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+iframe {
+     float: right;
+
+    height: 300px;
+     width: 400px;
+     align:middle;
+
+}
+
+
+.heading{
+  align: center justify;
+  color: red;
+  font-family:Tahoma;
+}
